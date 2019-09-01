@@ -3,11 +3,8 @@
  
 
 ![Screenshot_2019-09-01-13-20-50-616_styles zonetech net styles server](https://user-images.githubusercontent.com/27670207/64075813-47fa9300-ccbd-11e9-9089-feb3607ca968.png)
-
 ![Screenshot_2019-09-01-12-48-02-078_styles zonetech net styles server](https://user-images.githubusercontent.com/27670207/64075827-4c26b080-ccbd-11e9-9ccc-c08cc6b9d8ca.png)
-
 ![Screenshot_2019-09-01-12-27-50-099_styles zonetech net styles server](https://user-images.githubusercontent.com/27670207/64075828-4cbf4700-ccbd-11e9-80af-502179c0e23e.png)
-
 ![Screenshot_2019-09-01-13-21-12-165_styles zonetech net styles server](https://user-images.githubusercontent.com/27670207/64075830-4cbf4700-ccbd-11e9-99cd-2177752f9ea2.png)
 
 ![Screenshot_2019-09-01-13-21-08-964_styles zonetech net styles server](https://user-images.githubusercontent.com/27670207/64075831-4d57dd80-ccbd-11e9-89a7-e8bdf49d44d6.png)
