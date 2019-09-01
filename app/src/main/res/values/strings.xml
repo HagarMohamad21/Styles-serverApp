@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Styles Server</string>
+    <string name="login_toolbar">Login to your saloon</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="password">Password</string>
+    <string name="Email">Email</string>
+    <string name="orders">Orders</string>
+    <string name="more_details">Details</string>
+    <string name="validation_string">Please fill in all fields</string>
+    <string name="connection_validation">Please check your connection</string>
+    <string name="no_orders">You have no orders</string>
+    <string name="reject">Reject</string>
+    <string name="approve">Approve</string>
+    <string name="write_a_comment">Reasons</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="order_approval">Are you sure you want to approve this order?</string>
+    <string name="order_finishing">Are you sure you want to finish this order?</string>
+    <string name="finsih_order">Finish order</string>
+    <string name="backIcon">&#xe90c;</string>
+    <string name="Mobile">Mobile</string>
+    <string name="FullName">Full name</string>
+    <string name="updateAccoutText">Account updated successfully</string>
+    <string name="order_approve_toast">Order approved successfully</string>
+    <string name="order_reject_toast">Order was rejected successfully</string>
+    <string name="reject_order">Reject order</string>
+    <string name="order_details">Order details</string>
+    <string name="approve_order">Approve order</string>
+    <string name="approved">Approved</string>
+    <string name="children">Child</string>
+    <string name="adults">Adult</string>
+    <string name="pending">Pending</string>
+    <string name="rejected">Rejected</string>
+    <string name="send">Send</string>
+    <string name="email_recovery">Recovery message was sent to your email</string>
+    <string name="password_recovery">Please enter your email and a message will be sent to it with your account information </string>
+    <string name="recovery">Recovery</string>
+    <string name="logout">Logout</string>
+    <string name="confirm_logout">Are you sure you want to logout? </string>
+    <string name="finished">Finshed</string>
+    <string name="order_finish_toast">Order was finished sucssfully</string>
+    <string name="finish">Finish</string>
+    <string name="about_us">Description string about the app</string>
+    <string name="developed_by_zonetech">Developed by ZoneTech</string>
+    <string name="home">Home</string>
+    <string name="account">Account</string>
+    <string name="switch_to_arabic">Switch to Arabic</string>
+    <string name="save">Save</string>
+    <string name="about">About</string>
+    <string name="cancel">Cancel</string>
+    <string name="full_edit_account">Gain full access to your saloon panel through this link (desktop and laptop only)</string>
+    <string name="copy_link">Copy Link</string>
+    <string name="copied_link">Link was copied to clipboard</string>
+    <string name="new_order">You have a new order</string>
+    <string-array name="errorcodes">
+        <item>Invalid requested data</item>
+        <item>No server connection</item>
+        <item>No database connection</item>
+        <item>Invalid sent information</item>
+        <item>Error receiving information</item>
+        <item>Fill missing information</item>
+        <item>Duplicate email or phone</item>
+        <item>Invalid useremail or password</item>
+        <item>Invalid coupon</item>
+
+    </string-array>
+
+</resources>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login">دخول</string>
+    <string name="forgot_password">نسيت كلمةالمرور؟</string>
+    <string name="password">كلمة المرور</string>
+    <string name="about_us">Description string about the app</string>
+    <string name="adults">بالغ</string>
+    <string name="children">طفل</string>
+    <string name="Email" >البريد الإلكتروني</string>
+    <string name="approved">مقبول</string>
+    <string name="rejected">مرفوض</string>
+    <string name="pending">منتظر</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="send">إرسال</string>
+    <string name="password_recovery">برجاء إدخال بريدك المسجل في حسابك وسيتم إرسال رسالة بها بيانات حسابك </string>
+    <string name="recovery">إستعادة</string>
+    <string name="validation_string">من فضلك إملأ جميع البيانات</string>
+    <string name="no_orders">ليس لديك اي طلبات</string>
+    <string name="finished">منتهي</string>
+    <string name="email_recovery">تم ارسال رسالة إستعادة إلي بريدك الإلكتروني</string>
+    <string name="app_name">ستايلز</string>
+    <string name="approve">قبول</string>
+    <string name="approve_order">قبول الطلب</string>
+    <string name="connection_validation">من فضلك تأكد من وجود انترنت</string>
+    <string name="login_toolbar">ادخل لمتابعة صالونك</string>
+    <string name="more_details">التفاصيل</string>
+    <string name="write_a_comment">الأسباب</string>
+    <string name="reject_order">رفض الطلب</string>
+    <string name="finsih_order">انهاء الطلب</string>
+    <string name="switch_to_arabic">التحويل إلي الإنجليزية</string>
+
+    <string name="save">حفظ</string>
+    <string name="FullName">الإسم كامل</string>
+    <string name="Mobile">رقم الهاتف</string>
+    <string name="updateAccoutText">تم تحديث الحساب بنجاح</string>
+    <string name="logout"> تسجيل خروج</string>
+    <string name="confirm_logout" >هل انت متأكد من الرغبة في تسجيل الخروج؟</string>
+    <string name="reject">رفض</string>
+    <string name="order_approval">هل انت متأكد في الرغبة لقبول الطلب؟</string>
+    <string name="order_approve_toast">تم قبول الطلب بنجاح</string>
+    <string name="order_details">تفاصيل الطلب</string>
+    <string name="order_reject_toast">تم رفض الطلب بنجاح</string>
+    <string name="orders">الطلبات</string>
+    <string name="order_finish_toast">تم ا نهاء الطلب بنجاح</string>
+    <string name="finish">انهاء</string>
+    <string name="order_finishing">هل انت متأكد في الرغبة لإنهاء الطلب؟</string>
+    <string name="developed_by_zonetech">تطوير شركة زون تك</string>
+    <string name="home">الرئيسية</string>
+    <string name="account">الحساب</string>
+    <string name="about">حول</string>
+    <string name="backIcon">&#xe905;</string>
+    <string name="cancel">الغاء</string>
+    <string name="full_edit_account">احصل علي صلاحيات كاملة من خلال لوحة تحكم مخصصة لصالونك من خلال هذا الرابط (سطح المكتب فقط)</string>
+    <string name="copy_link">نسخ الرابط</string>
+    <string name="copied_link">تم نسخ الرابط</string>
+    <string name="new_order">لديك طلب جديد</string>
+    <string-array name="errorcodes">
+        <item>البيانات المطلوبة خاطئة</item>
+        <item>لا يوجد اتصال بالخادم</item>
+        <item>لا يوجد اتصال بقاعدة البيانات</item>
+        <item>البيانات المرسلة خاطئة</item>
+        <item>خطا في استقبال البيانات</item>
+        <item>املا البيانات الناقصة</item>
+        <item>البريد او الجوال مسجل مسبقا</item>
+        <item>البريد او كلمة المرور خاطئة</item>
+        <item>الكوبون خطأ</item>
+    </string-array>
+</resources>
